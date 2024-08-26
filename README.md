@@ -3,7 +3,7 @@
 # Hi👋 I'm Joyanta
 
 ###### Web Developer
-
+<p>I'm a professional front-end web developer, I have worked hard as a front-end web developer for 3+ years and have gained knowledge of the scales required.</p>
 
 <!--
 **web-joyanta/web-joyanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
