@@ -6,7 +6,7 @@
 ###### Web Developer
 <p>I'm a professional front-end web developer, I have worked hard as a front-end web developer for 3+ years and have gained knowledge of the scales required. I am dedicated to delivering front-end solutions that not only look great but also work seamlessly with back-end systems and external services. By leveraging my skills in API integration and responsive design, I create user interfaces that are both visually appealing and highly functional, meeting client needs and exceeding user expectations.</p>
 
-## Contact Me:
+## 👤 Contact Me:
 
 
 
