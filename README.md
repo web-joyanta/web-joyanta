@@ -1,13 +1,13 @@
-# Hi👋 I'm Joyanta
+
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGgEfrIYjxsZw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351548761?e=1730332800&v=beta&t=g-cAowDWQB0EkILy2E1A4LCV5gnYri-QKBFgN4w3XC8" alt="github banner"/>
 
+## Hi👋 I'm Joyanta
 
 <div class="markdown-heading" dir="auto"><br><h2 class="heading-element" dir="auto">About Me:</h2><a id="user-content--tech-stack-i-used" class="anchor" aria-label="Permalink: About Me:" href="#-tech-stack-i-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 ###### Web Developer
 <p>I'm a professional front-end web developer, I have worked hard as a front-end web developer for 3+ years and have gained knowledge of the scales required. I am dedicated to delivering front-end solutions that not only look great but also work seamlessly with back-end systems and external services. By leveraging my skills in API integration and responsive design, I create user interfaces that are both visually appealing and highly functional, meeting client needs and exceeding user expectations.</p>
 
-<div class="markdown-heading" dir="auto"><br><h2 class="heading-element" dir="auto">💻 Technical Expert Skills:</h2><a id="user-content--tech-stack-i-used" class="anchor" aria-label="Permalink: 💻 Technical Expert Skills:" href="#-tech-stack-i-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <!--
 **web-joyanta/web-joyanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
