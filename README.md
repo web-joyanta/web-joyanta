@@ -1,5 +1,7 @@
 # Hi👋 I'm Joyanta
 
+https://media.licdn.com/dms/image/v2/D4D16AQGgEfrIYjxsZw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351548761?e=1730332800&v=beta&t=g-cAowDWQB0EkILy2E1A4LCV5gnYri-QKBFgN4w3XC8
+
 <!--
 **web-joyanta/web-joyanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
