@@ -1,4 +1,4 @@
-## Hi 👋 I'm Joyoanta
+## Hi👋 I'm Joyanta
 
 <!--
 **web-joyanta/web-joyanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
