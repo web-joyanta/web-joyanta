@@ -1,4 +1,7 @@
-
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Joyanta+Kumar+Barman..;Front-End+Developer+Expert;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGgEfrIYjxsZw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351548761?e=1730332800&v=beta&t=g-cAowDWQB0EkILy2E1A4LCV5gnYri-QKBFgN4w3XC8" alt="github banner"/>
 
 ## Hi👋 I'm 👉Joyanta Kumar Barman
@@ -58,7 +61,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Joyanta+Kumar+Barman..;Front-End+Developer+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Joyanta+Kumar+Barman..;Front-End+Developer+Expert;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 
     
