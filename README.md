@@ -31,7 +31,6 @@
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=web-joyanta)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=web-joyanta)
 
-![snake gif](https://github.com/web-joyanta/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
