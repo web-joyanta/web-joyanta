@@ -18,12 +18,6 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" alt="About Me GIF" height="150" data-target="animated-image.originalImage">
 </div>
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=web-joyanta&theme=radical&hide_border=false) --> 
-
-<!-- <div align="center">
-<img src="https://streak-stats.demolab.com/?user=web-joyanta" alt="GitHub Streak Stats">
-</div>  --> 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=web-joyanta&theme=radical&hide_border=false" alt="Streak Stats">
 </div>
@@ -179,6 +173,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=web-joyanta&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=web-joyanta&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=web-joyanta" alt="GitHub Streak Stats">
+</div> 
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=web-joyanta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
