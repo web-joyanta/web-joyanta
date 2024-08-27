@@ -31,7 +31,7 @@
 
 
 
-<div align="center" style="background-color: #2D2D2D; padding: 20px; border-radius: 10px;">
+<div align="center" background-color= "#2D2D2D" style="background-color: #2D2D2D; padding: 20px; border-radius: 10px;">
   <img src="https://streak-stats.demolab.com/?user=web-joyanta" alt="GitHub Streak Stats">
 </div>
 
