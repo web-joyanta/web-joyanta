@@ -17,7 +17,6 @@
 </div>
 
 
-    <img src="https://streak-stats.demolab.com/?user=web-joyanta" height="150" />
     ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-joyanta)
 
 
