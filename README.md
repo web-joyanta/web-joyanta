@@ -17,7 +17,7 @@
 </div>
 
 
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-joyanta)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=web-joyanta)
 
 
 
