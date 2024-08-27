@@ -16,9 +16,9 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" alt="About Me GIF" height="150" data-target="animated-image.originalImage">
 </div>
 
-<div align="center">
+<p>
     ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-joyanta)
-</div>
+</p>
 
 
 
