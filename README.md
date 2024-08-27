@@ -17,11 +17,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=web-joyanta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" alt="About Me GIF" height="150" data-target="animated-image.originalImage">
 </div>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=web-joyanta&theme=radical&hide_border=false)
 
 <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=web-joyanta&theme=radical&hide_border=false)
-  <!-- <img src="https://streak-stats.demolab.com/?user=web-joyanta" alt="GitHub Streak Stats"> -->
+<!--   <img src="https://streak-stats.demolab.com/?user=web-joyanta" alt="GitHub Streak Stats"> -->
 </div>
 
 
