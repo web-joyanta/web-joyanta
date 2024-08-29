@@ -27,14 +27,14 @@
 </div>
 <br><br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=web-joyanta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 
-## 📈 Progress Bar
+## 📈 Progress Bar:
 <img src="https://raw.githubusercontent.com/web-joyanta/web-joyanta/output/snake.svg" alt="Snake animation" />
 <img src="https://visitor-badge-deno.deno.dev/web-joyanta.web-joyanta.svg" alt="views since 2023/06/14">
 
