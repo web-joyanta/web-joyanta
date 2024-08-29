@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-joyanta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=web-joyanta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-joyanta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=web-joyanta&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
 <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" alt="About Me GIF" height="150" data-target="animated-image.originalImage">
 </div>
 <div align="center">
@@ -33,20 +33,6 @@
 ```text
 JavaScript   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
-<div align="center">
-  <img src="https://visitor-badge-deno.deno.dev/web-joyanta.web-joyanta.svg" alt="views since 2023/06/14">
-</div>
-<br>
-
 <img src="https://raw.githubusercontent.com/web-joyanta/web-joyanta/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
-
-
-
-
-
-
+<img src="https://visitor-badge-deno.deno.dev/web-joyanta.web-joyanta.svg" alt="views since 2023/06/14">
