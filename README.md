@@ -34,8 +34,8 @@
 JavaScript   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 
-## 📈 Progress Bar:
-<img src="https://raw.githubusercontent.com/web-joyanta/web-joyanta/output/snake.svg" alt="Snake animation" />
+<!-- ## 📈 Progress Bar: -->
+<!-- <img src="https://raw.githubusercontent.com/web-joyanta/web-joyanta/output/snake.svg" alt="Snake animation" /> -->
 <img src="https://visitor-badge-deno.deno.dev/web-joyanta.web-joyanta.svg" alt="views since 2023/06/14">
 
 
