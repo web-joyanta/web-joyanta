@@ -1,7 +1,10 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-<img src="https://readme-typing-svg.herokuapp.com?color=1b044a&width=380&height=28&lines=Hi👋+I'm+Joyanta..;Front-End+Developer+Expert;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?color=1b044a&width=380&height=28&lines=Hi👋+I'm+Joyanta..;Front-End+Developer+Expert;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+</a>
+</p>
+
+
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGMLJEpOD2ZEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726863945112?e=1732147200&v=beta&t=8HsfMmpx72Me00WdRP7YscFaYUKIszxCK8eMr0jRvEk" alt="github banner"/>
 
 ## 👉 Joyanta Kumar Barman
