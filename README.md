@@ -4,8 +4,7 @@
 </a>
 </p>
 
-
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGMLJEpOD2ZEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726863945112?e=1732147200&v=beta&t=8HsfMmpx72Me00WdRP7YscFaYUKIszxCK8eMr0jRvEk" alt="github banner"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=web-joyanta&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" style="width: 100%;" alt="activity-graph graph" />
 
 ## 👉 Joyanta Kumar Barman
 
