@@ -4,8 +4,6 @@
 </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=web-joyanta&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" style="width: 100%;" alt="activity-graph graph" />
-
 ## 👉 Joyanta Kumar Barman
 
 #### 🙎🏻‍♂ About Me:
