@@ -7,6 +7,8 @@
 ## 👉 Joyanta Kumar Barman
 
 #### 🙎🏻‍♂ About Me:
+<img align="left" height="131" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+
 <p>I'm a professional front-end & mern-stack web developer, I have worked hard as a web developer for 3+ years and have gained knowledge of the scales required. I am dedicated to delivering front-end solutions that look great and work seamlessly with back-end systems and external services. By leveraging my API integration and responsive design skills, I create user interfaces that are visually appealing and highly functional, meeting client needs and exceeding user expectations.</p>
 
 #### 🌐 Socials:
