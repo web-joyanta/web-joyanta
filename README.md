@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const joyanta = {
+const developer = {
   name:       "Joyanta Kumar Barman",
   role:       "Full Stack Developer (MERN)",
   location:   "Dhaka, Bangladesh 🇧🇩",
@@ -38,7 +38,7 @@ const joyanta = {
   
   funFact: "I turn ☕ coffee into 💻 production-ready web apps!",
   
-  hireDeveloper: (project) => "Let's build something amazing together 🚀",
+  hireDeveloper: (developer) => "Let's build something amazing together 🚀",
 };
 ```
 
